@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { HashRouterRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { Landing } from './pages/Landing';
 import { SerieInfo } from './pages/SerieInfo';
 import "./index.css"
