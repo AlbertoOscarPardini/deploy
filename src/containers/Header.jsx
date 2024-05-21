@@ -7,7 +7,7 @@ export const Header = () => {
             <nav className="mx-auto flex justify-between items-center w-full">
                 <div>
                     <Link to="/">
-                        <img src="/logo-film.svg" alt="a" className="w-[40%]"/>
+                        <img src="./logo-film.svg" alt="a" className="w-[40%]"/>
                     </Link>
                 </div>
                 
